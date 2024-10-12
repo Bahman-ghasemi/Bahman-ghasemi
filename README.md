@@ -7,8 +7,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bahman-ghasemi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bahman-ghasemi&theme=tokyonight&hide_border=false)<br/>
-![]
-(https://roadmap.sh/card/tall/670ab841791f57dd607bd834?variant=dark)<br/>
+![](https://roadmap.sh/card/tall/670ab841791f57dd607bd834?variant=dark)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bahman-ghasemi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
